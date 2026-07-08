@@ -1,0 +1,6 @@
+{
+  "name": "Pedido de Encontro",
+  "description": "Uma página interativa e divertida para convidar alguém especial para um encontro, com botões animados e agendamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
